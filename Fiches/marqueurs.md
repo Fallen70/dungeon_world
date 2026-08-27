@@ -1,4 +1,4 @@
-# 🛡️ Dungeon World – Fiche Exhaustive des Marqueurs d'Équipement, d'Armes & d'Armures
+# 🛡️ Dungeon World – Fiche des Marqueurs d'Équipement, d'Armes & d'Armures
 
 Cette fiche regroupe **l'intégralité des marqueurs** décrits sur la page officielle [pbta.fr](https://pbta.fr/wiki/dungeonworld:recrues_equipement#equipement).
 

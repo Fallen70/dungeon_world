@@ -1,4 +1,4 @@
-# Fiche récapitulative – **Dungeon World**
+# Fiche récapitulative - Actions – **Dungeon World**
 
 *(Actions de base + Actions spéciales – tirées du chapitre 16 « Actions » du Pbta Wiki)*
 
