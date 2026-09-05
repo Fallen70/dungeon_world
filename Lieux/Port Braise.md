@@ -1,1 +1,1 @@
-Ville portuaire coincée entre la jungle et la montagne
+Ville portuaire coincée entre la jungle et la montagne, a été construite sur les ruines d'une ancienne citée. 

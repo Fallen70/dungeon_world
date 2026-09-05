@@ -1,0 +1,1 @@
+Conglomérat de voleurs de [[Port Braise]] dirigé par [[Lela Al-Dimashqi]] Contrôle le [[Quai Est]] et une bonne partie des [[Souterrains]]
