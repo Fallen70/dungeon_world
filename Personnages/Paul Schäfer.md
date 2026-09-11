@@ -1,1 +1,1 @@
-Humain de 40 ans dirige [[Port Braise]] d'une main de fer, il contrôle les [[Mines]] a grand renfort d'homme de main.
+[[Humain]] de 40 ans dirige [[Port Braise]] d'une main de fer, il contrôle les [[Mines]] a grand renfort d'homme de main.
