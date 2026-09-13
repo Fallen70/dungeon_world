@@ -1,1 +1,1 @@
-Une [[Elfe]] discrète qui dirige les [[Serpent d'argent]] une guilde de voleur qui profitent des [[Souterrains]] pour leurs activitées.
+Une [[Elfe]] discrète qui dirige les [[Serpent d'argent]] une guilde de voleur qui profitent des [[Souterrains]] pour leurs activités.
