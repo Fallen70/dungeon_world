@@ -1,0 +1,1 @@
+**Lieutenant Cornelius Murphy** : [[Humain]] En charge de la sécurité a [[Port Braise]] reçoit des pots de vin de la part des [[Serpent d'argent]]. Il essaye de maintenir un équilibre instable pour assurer la sécurité du [[Quai Ouest]] malgré les activité de la pègre.

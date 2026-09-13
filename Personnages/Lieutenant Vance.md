@@ -1,0 +1,1 @@
+**Lieutenant Martha Vance** : [[Humain]] Affectée à la garde des [[Cultures]]. Tiraillée entre ses ordres officiels et l'empathie pour les fermiers abandonnés aux monstres.

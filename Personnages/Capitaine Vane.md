@@ -1,0 +1,1 @@
+**Capitaine Vane "La Griffe"** [[Humain]] Commandant des Marteaux de Braise dans les Mines. Arrogant et brutal, il est obsédé par la sécurité des [[Mines]].

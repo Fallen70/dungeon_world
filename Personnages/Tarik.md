@@ -1,0 +1,2 @@
+**Tarik "L'Écorché"** Un [[Nain]] expert en opération souterraine, il est en charge de la sécurisation et la cartographie des [[Souterrains]]. Il cherche a tout pris a garder le secret sur les différent tunnels.
+Paranoïaque et pragmatique, couvert de brûlures d'acide. Il mène une guerre de traque clandestine contre les Kobolds avant que la milice ne remarque le problème et ne descende purger les sous-sols.
