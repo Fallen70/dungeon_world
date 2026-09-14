@@ -1,6 +1,6 @@
 # Lieutenant Martha Vance
 
-**Race / Rôle :** [[Humaine]], Officière de garde affectée à la protection du secteur des [[Cultures]] à [[Port Braise]].
+**Race / Rôle :** [[Humain]], Officière de garde affectée à la protection du secteur des [[Cultures]] à [[Port Braise]].
 
 ## Apparence Physique & Âge
 * **Âge :** Vingt-huit ans.
