@@ -1,1 +1,1 @@
-Source de revenu principal de [[Port Braise]] 
+Source de revenu principal de [[Port Braise]], A besoin de bois en provenance de l'[[Exploitation Forestiére]]

@@ -10,6 +10,12 @@ Arrogant et brutal, le Capitaine Vane impose le respect par sa stature imposante
 * **Obsession sécuritaire :** Il voit le moindre incident, sabotage ou faille de sécurité comme un affront personnel et une menace directe contre son pouvoir.
 * **Discipline de fer :** Maintenir les mineurs et la garnison sous une poigne de fer pour garantir un rendement maximal et prouver son irremplaçabilité aux yeux de ses supérieurs.
 
+## Tensions & Relations
+* **Avec [[Paul Schäfer]] (Le Gouverneur) :** Fidèle bras armé de Schäfer. Vane jouit d'une autonomie totale dans les [[Mines]] tant qu'il garantit le rendement et la discipline imposés par le gouverneur.
+* **Avec le [[Lieutenant Murphy]] :** Mépris et rivalité. Vane voit Murphy comme un officier faible et corrompu, et cherche à étendre la juridiction des Marteaux de Braise sur le [[Quai Ouest]].
+* **Avec le [[Lieutenant Vance]] :** Indifférence froide. Vane accapare le matériel et les renforts militaires pour les Mines, ignorant royalement les demandes de protection des [[Cultures]].
+* **Avec Les [[Serpent d'argent]] :** Il traque sans relâche les agents de la pègre qui s'infiltrent dans les Mines ou tentent de fomenter des révoltes parmi les ouvriers.
+
 ## En Jeu (Dungeon World)
 * **Instinct :** Écraser la dissidence et affirmer son autorité.
 * **Actions de PNJ :**

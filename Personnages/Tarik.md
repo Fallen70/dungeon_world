@@ -12,7 +12,7 @@
 * **Paranoïa & Pragmatisme :** Convaincu que personne à la surface ne comprend la fragilité des profondeurs, il vit en reclus et refuse de faire confiance aux autorités de [[Port Braise]].
 
 ## Tensions & Relations
-* **Avec le [[Capitaine Vane]] & [[Paul Schäfer]] :** Tarik évite soigneusement la milice des [[Mines]]. Il craint plus que tout que les ingénieurs de Vane découvrent ses tunnels secrets ou n'étendent les travaux miniers dans son domaine.
+* **Avec les [[Miliciens]] :** Tarik évite soigneusement la milice. Il craint plus que tout que les ingénieurs de Vane découvrent ses tunnels secrets.
 * **Avec les [[Serpent d'argent]] / [[Lela Al-Dimashqi]] :** Un respect et un échange tacite. Les voleurs utilisent parfois certains de ses passages discrets, et Tarik tolère leur présence tant qu'ils ne révèlent pas ses cartes et ne perturbent pas ses opérations anti-kobolds.
 
 ## En Jeu (Dungeon World)

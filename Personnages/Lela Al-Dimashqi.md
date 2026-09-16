@@ -16,6 +16,12 @@
 * **Protectrice de l'ombre :** Utiliser les ressources et les agissements du Serpent d'argent pour rééquilibrer discrètement les forces, protéger les démunis et contrecarrer les abus de pouvoir de la noblesse et des forces brutales (comme le [[Capitaine Vane]]).
 * **Le frisson du danger :** Rechercher l'adrénaline et le défi intellectuel que la haute société stérile ne peut pas lui offrir.
 
+## Tensions & Relations
+* **Avec [[Paul Schäfer]] :** Un jeu d'illusions. Elle le côtoie dans les salons aristocratiques de [[Port Braise]] sous les traits d'une riche héritière inoffensive, tout en espionnant ses faits et gestes pour contrecarrer sa poigne autoritaire.
+* **Avec le [[Lieutenant Murphy]] :** Une entente pragmatique clandestine. Elle maintient un pacte de non-agression tacite au [[Quai Ouest]], garantissant la relative tranquillité du quartier en échange de la bienveillante cécité de la garde.
+* **Avec [[Silas]] :** Un partenariat commercial discret. Silas lui sert de relais hors de la ville dans les [[Cultures]] pour faire passer des agents, des vivres ou des fugitifs.
+* **Avec [[Tarik]] :** Un respect d'initiés. Ses éclaireurs empruntent parfois certains passages de Tarik dans les [[Souterrains]], en échange du respect absolu du secret entourant le cartographe et ses opérations.
+
 ## En Jeu (Dungeon World)
 * **Instinct :** Obtenir des secrets décisifs tout en préservant son anonymat.
 * **Actions de PNJ :**

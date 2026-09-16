@@ -4,7 +4,7 @@ La Horde est découpée en plusieurs clans/branches spécialisés sous la volont
 
 ## La Griffe du Dragon (Les Sapeurs & Ingénieurs)
 - **Dirigé par** : [[Maître-Piégeur Krik]]
-- **Rôle** : Creuser des réseaux de sous-terrains vers [[Port Braise]] et sécuriser le territoire conquis à l'aide de pièges mortels et de tunnels étroits.
+- **Rôle** : Creuser des réseaux de [[Souterrains]]  sous [[Port Braise]] et sécuriser le territoire conquis à l'aide de pièges mortels et de tunnels étroits.
 - **Méthodes** : Évitent le combat direct en surface. Favorisent les effondrements de terrain, le sabotage des fondations et les embuscades par le sol.
 
 ## Les Chasseurs de Sang (L'Avant-garde & Traqueurs)

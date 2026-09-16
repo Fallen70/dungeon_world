@@ -15,7 +15,7 @@
 ## Tensions Politiques & Relations
 * **Avec [[Paul Schäfer]] (Le Gouverneur/Autocrate) :** Murphy craint terriblement Schäfer. Il sait que si le dirigeant apprend l'étendue de ses accords avec les voleurs, il sera exécuté pour haute trahison. Il doit donc présenter des rapports irréprochables pour faire croire que le Quai Ouest est sous contrôle.
 * **Avec la Milice & [[Capitaine Vane]] :** Murphy déteste la brutalité démesurée des miliciens et des Marteaux de Braise. Il s'efforce de tenir les troupes du Capitaine Vane hors de son quartier, sachant qu'une intervention militaire armée sur les quais provoquerait une guerre ouverte avec les gangs.
-* **Avec [[Lela Al-Dimashqi]] / Les [[Serpent d'argent]] :** Une relation de méfiance mutuelle et de coopération clandestine. Il les traite comme un mal nécessaire pour maintenir l'ordre.
+* **Avec Les [[Serpent d'argent]] :** Une relation de méfiance mutuelle et de coopération clandestine. Il les traite comme un mal nécessaire pour maintenir l'ordre.
 
 ## En Jeu (Dungeon World)
 * **Instinct :** Éviter l'escalade de la violence et protéger ses hommes.
