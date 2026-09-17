@@ -1,0 +1,2 @@
+Patronne des marchand elle est la déesse des transactions ouvertes mais également des dessous de tables, dominant à la fois les marchés officiels et le marché noir.
+Elle ne représente pas l'accumulation de richesse mais la volonté de la faire circuler, les investissements réfléchit font parti de ces attribution.

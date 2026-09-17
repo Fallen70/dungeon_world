@@ -1,1 +1,0 @@
-Les restes de l'ancienne citée mélangée aux égouts. Un véritable labyrinthe.
