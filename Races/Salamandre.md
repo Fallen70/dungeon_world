@@ -1,0 +1,1 @@
+Extrêmement rare, leurs localités sont cachées souvent dans des endroits inhabitable pour beaucoup d'autres humanoïdes. 

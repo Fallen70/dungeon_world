@@ -1,0 +1,1 @@
+Secteur délaissé par [[Paul Schäfer]] , les [[Miliciens]] font le strict minimum pour maintenir la production.
